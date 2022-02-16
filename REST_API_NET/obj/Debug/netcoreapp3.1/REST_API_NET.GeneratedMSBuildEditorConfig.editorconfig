@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = REST_API_NET
+build_property.ProjectDir = A:\.net\REST_API_NET\
